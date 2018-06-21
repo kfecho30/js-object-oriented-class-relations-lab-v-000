@@ -10,7 +10,8 @@ class Driver {
     store.drivers.push(this);
   }
   trips(){}
-  passengers(){}
+  passengers(){
+  }
 }
 
 class Passenger {
